@@ -5,4 +5,6 @@ CONFIG -= qt
 
 SOURCES += \
         main.cpp \
-        my_vectors.cpp
+        my_vectors.cpp \
+        stars.cpp \
+        static_casting.cpp
