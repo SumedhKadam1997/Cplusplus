@@ -8,4 +8,5 @@ void sayHi(string name, int age){
 
 int main(){
     sayHi("Sumedh",25);
+    cin.get();
 }
